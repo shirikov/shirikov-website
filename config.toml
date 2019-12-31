@@ -9,7 +9,8 @@ title = "Anton Shirikov"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+#baseurl = "/"
+baseurl = "https://www.shirikov.com/"
 
 #relativeURLs = true
 
