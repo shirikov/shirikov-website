@@ -30,8 +30,8 @@ subtitle = ""
 ## Publications
 
 * "Eurasia and Post-Communism: Weasel Words?" Forthcoming in _East European Politics and Societies_. With Yoshiko M. Herrera and Dmitrii Kofanov.
-* "Sovereignty and Regionalism in Eurasia." (2018) In: Anssi Paasi, John Harrison, and Martin Jones (eds.). [_Elgar Handbook on the Geographies of Regions and Territories_](https://www.e-elgar.com/shop/handbook-on-the-geographies-of-regions-and-territories). Edward Elgar Publishing. With Dmitrii Kofanov and Yoshiko M. Herrera.
-* "Public Administration in Russia." (2013) In: Saltanat Liebert, Stephen E. Condrey, and Dmitry Goncharov (eds.). [_Public Administration in Post-Communist Countries: Former Soviet Union, Central and Eastern Europe, and Mongolia_](https://www.crcpress.com/Public-Administration-in-Post-Communist-Countries-Former-Soviet-Union/Liebert-Condrey-Goncharov/p/book/9781439861370). Routledge. With Dmitry Goncharov.
+* "Sovereignty and Regionalism in Eurasia." (2018) In: Paasi, Anssi, John Harrison, and Martin Jones (eds.). [_Elgar Handbook on the Geographies of Regions and Territories_](https://www.e-elgar.com/shop/handbook-on-the-geographies-of-regions-and-territories). Edward Elgar Publishing. With Dmitrii Kofanov and Yoshiko M. Herrera.
+* "Public Administration in Russia." (2013) In: Liebert, Saltanat, Stephen E. Condrey, and Dmitry Goncharov (eds.). [_Public Administration in Post-Communist Countries: Former Soviet Union, Central and Eastern Europe, and Mongolia_](https://www.crcpress.com/Public-Administration-in-Post-Communist-Countries-Former-Soviet-Union/Liebert-Condrey-Goncharov/p/book/9781439861370). Routledge. With Dmitry Goncharov.
 
 ## Working Papers
 
@@ -39,6 +39,6 @@ subtitle = ""
 * "Legacies of Communism and Confidence in Media."
 * "Is Trust in Media Decreasing? Evidence from the World Values Survey."
 * "A Model of Censorship and Propaganda." With Scott Gehlbach and Dmitriy Vorobyev.
-* ["Preventing Predation: Oligarchs, Obfuscation, and Political Connections."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501060). With John Earle, Scott Gehlbach and Solomiya Shpak.
+* ["Preventing Predation: Oligarchs, Obfuscation, and Political Connections."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501060) With John Earle, Scott Gehlbach and Solomiya Shpak.
 * "Smart Ways to Use a Postcommunist Dummy." With Dmitrii Kofanov and Yoshiko M. Herrera.
 * "Legislatures and Executive Recruitment in Autocracies: Does Parliamentary Behavior Matter?"
