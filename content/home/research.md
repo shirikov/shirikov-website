@@ -29,7 +29,7 @@ subtitle = ""
 
 ## Publications
 
-* "Eurasia and Post-Communism: Weasel Words?" Forthcoming in _East European Politics and Societies_. With Yoshiko M. Herrera and Dmitrii Kofanov.
+* ["Eurasia and Post-Communism: Weasel Words?"](https://journals.sagepub.com/doi/full/10.1177/0888325419900244) (2020). _East European Politics and Societies_, Vol.34, No.2. With Yoshiko M. Herrera and Dmitrii Kofanov.
 * "Sovereignty and Regionalism in Eurasia." (2018) In: Paasi, Anssi, John Harrison, and Martin Jones (eds.). [_Elgar Handbook on the Geographies of Regions and Territories_](https://www.e-elgar.com/shop/handbook-on-the-geographies-of-regions-and-territories). Edward Elgar Publishing. With Dmitrii Kofanov and Yoshiko M. Herrera.
 * "Public Administration in Russia." (2013) In: Liebert, Saltanat, Stephen E. Condrey, and Dmitry Goncharov (eds.). [_Public Administration in Post-Communist Countries: Former Soviet Union, Central and Eastern Europe, and Mongolia_](https://www.crcpress.com/Public-Administration-in-Post-Communist-Countries-Former-Soviet-Union/Liebert-Condrey-Goncharov/p/book/9781439861370). Routledge. With Dmitry Goncharov.
 
