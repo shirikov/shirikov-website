@@ -7,7 +7,7 @@ name: Anton Shirikov
 organizations:
 - name: University of Wisconsin-Madison
   url: "https://polisci.wisc.edu/"
-role: Graduate student
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -27,7 +27,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Political Science at the University of Wisconsin-Madison. I study media, political communication, misinformation and propaganda. In my dissertation, I use experiments and survey data to examine when biased media are found more credible and who is more sensitive to political bias in the news. In my other work, I study the legacies of communism and contemporary political institutions in the former Soviet Union.
+I am a PhD Candidate in Political Science at the University of Wisconsin-Madison. I study media, political communication, misinformation and propaganda. In my dissertation, I use experiments and survey data to examine when biased media are found more credible and who is more sensitive to political bias in the news. In my other work, I study the legacies of communism and contemporary political institutions in the former Soviet Union.
 
 I am fascinated by the modern tools of computational social science, including digital data collection, automated text analysis, machine learning, and network analysis.
 
