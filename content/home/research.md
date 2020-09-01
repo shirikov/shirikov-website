@@ -39,6 +39,6 @@ subtitle = ""
 * "Legacy of Communism and Trust in Media."
 * "Is Trust in Media Decreasing? Evidence from the World Values Survey."
 * "A Model of Censorship and Propaganda." With Scott Gehlbach and Dmitriy Vorobyev.
-* ["Preventing Predation: Oligarchs, Obfuscation, and Political Connections."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501060) With John Earle, Scott Gehlbach and Solomiya Shpak. 
+* ["The Oligarch Vanishes: Defensive Ownership, Property Rights, and Political Connections."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3683924) With John Earle, Scott Gehlbach and Solomiya Shpak. 
 * "Smart Ways to Use a Postcommunist Dummy." With Dmitrii Kofanov and Yoshiko M. Herrera.
 * "Legislatures and Executive Recruitment in Autocracies: Does Parliamentary Behavior Matter?"
