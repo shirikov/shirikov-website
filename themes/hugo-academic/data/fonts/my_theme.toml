@@ -2,7 +2,7 @@
 name = “My Theme“
 
 # Optional Google font URL
-google_fonts = "Lustria:400|Lato:400"
+google_fonts = "family=Lustria&family=Lato"
 
 # Font families
 heading_font = "Lustria"
